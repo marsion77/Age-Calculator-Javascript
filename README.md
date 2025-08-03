@@ -21,8 +21,7 @@ A simple and responsive web application that calculates your age based on the da
 
 ## 📷 Screenshot
 
-![<img width="1264" height="771" alt="image" src="https://github.com/user-attachments/assets/d129e997-812c-41aa-bc9f-c7865b296919" />
-)  
+<img width="1264" height="771" alt="image" src="https://github.com/user-attachments/assets/d129e997-812c-41aa-bc9f-c7865b296919" />
 
 ---
 
