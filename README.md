@@ -5,7 +5,7 @@ A simple and responsive web application that calculates your age based on the da
 ---
 
 ## 📌 Live Demo
-https://enchanting-shortbread-d6f555.netlify.app/
+https://storied-crumble-13d48b.netlify.app/
 
 ---
 
